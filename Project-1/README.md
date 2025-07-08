@@ -9,8 +9,8 @@ A live website accessible on the internet, hosted through a fully configured AWS
 - HTML5 + CSS3
 
 ## 🔧 Steps Followed
-1. Created a free-tier EC2 instance
-2.Configure security group in EC2
+1. Created a free-tier EC2 instance .
+2. Configure security group in EC2
 3. SSH'ed into the instance
 4. Installed Nginx using `sudo apt install nginx` for Web server
 5. Copied website files to `/var/www/html`
