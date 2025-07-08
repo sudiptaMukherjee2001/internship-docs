@@ -16,6 +16,10 @@ A live website accessible on the internet, hosted through a fully configured AWS
 5. Copied website files to `/var/www/html`
 6. Accessed live site via public IP: `http://<your-ip>`
 
+## ⚠️ Note on Availability
+These hosted project links are temporary and are likely to stop working soon due to AWS Free Tier limits or EC2 instance termination.
+If you're accessing this after a certain period and the URLs are inactive, feel free to clone the repository and deploy using your own AWS account.
+
 ## 🌍 Live Demo
 [Live Website](http://54.91.207.245)
 
