@@ -38,6 +38,7 @@ This project demonstrates how to host a simple static website using **Amazon S3*
 ---
 
 ## 🌍 Live Website
+👉 [Live URL - S3 Static website hosting](http://project02-hoststaticwebsite.s3-website-us-east-1.amazonaws.com)
 
 👉 [View Web Page Hosted via CloudFront](https://d34u8xe7olcjrh.cloudfront.net/)
 
